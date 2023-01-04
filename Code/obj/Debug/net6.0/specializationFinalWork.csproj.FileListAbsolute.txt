@@ -1,0 +1,15 @@
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\bin\Debug\net6.0\specializationFinalWork.exe
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\bin\Debug\net6.0\specializationFinalWork.deps.json
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\bin\Debug\net6.0\specializationFinalWork.runtimeconfig.json
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\bin\Debug\net6.0\specializationFinalWork.dll
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\bin\Debug\net6.0\specializationFinalWork.pdb
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\specializationFinalWork.csproj.AssemblyReference.cache
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\specializationFinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\specializationFinalWork.AssemblyInfoInputs.cache
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\specializationFinalWork.AssemblyInfo.cs
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\specializationFinalWork.csproj.CoreCompileInputs.cache
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\specializationFinalWork.dll
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\refint\specializationFinalWork.dll
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\specializationFinalWork.pdb
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\specializationFinalWork.genruntimeconfig.cache
+C:\Users\dnsuser\Desktop\GeekBrains\selectSpecializationFinal\specializationFinalWork\Code\obj\Debug\net6.0\ref\specializationFinalWork.dll
